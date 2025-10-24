@@ -1,11 +1,13 @@
-<h1 align="center">Hi , I'm Aaron Ramirez<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hi, I'm Aaron Ramirez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD">
 </h3>
+
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ## 🌍 **About Me**  
-My name is **Aaron Ramirez**, and I am passionate about software development, focusing on creating innovative and efficient technological solutions. I am currently about to complete my studies as a 🎓 **Higher University Technician (TSU) in Multiplatform Software Development** and embark on my career as a 🚀 **Software Development and Management Engineer**.  
+My name is **Aaron Ramirez**, and I am passionate about software development, focusing on creating innovative and efficient technological solutions. I recently completed my studies as a 🎓 **Higher University Technician (TSU) in Multiplatform Software Development** and am currently pursuing my career as a 🚀 **Software Development and Management Engineer**.  
 
 ### **Soft Skills**  
 - 🤝 **Teamwork and Collaboration**  
@@ -15,15 +17,17 @@ My name is **Aaron Ramirez**, and I am passionate about software development, fo
 
 ---
 
-### **🎓 Academic training**
+### **🎓 Academic Training**
 
 ### **Técnico Superior Universitario (TSU) en Desarrollo de Software Multiplataforma**  
 🏫 **Universidad Tecnológica del Centro de Veracruz**  
 📅 **2023 - 2025**  
+✅ **Completed**
 
-### **Ingeniería en Desarrollo y Gestión de Software (Next to start)**  
+### **Ingeniería en Desarrollo y Gestión de Software**  
 🏫 **Universidad Tecnológica del Centro de Veracruz**  
-📅 **2025**   
+📅 **2025 - Present**  
+🚀 **Currently pursuing**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Skills**
 
@@ -38,7 +42,6 @@ My name is **Aaron Ramirez**, and I am passionate about software development, fo
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=007ACC&style=for-the-badge&color=000000">
   </a>
- <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white&style=for-the-badge&color=000000">
 </p>
 
 ---
