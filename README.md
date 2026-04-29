@@ -57,12 +57,6 @@ Also, I really like coffee ☕ and loud music, preferably at the same time.
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=000000">
   </a>
-  <a href="https://apidog.com/" target="_blank"> 
-    <img alt="Apidog" src="https://img.shields.io/badge/Apidog-%2300BFFF.svg?logo=swagger&logoColor=00BFFF&style=for-the-badge&color=000000">
-  </a>
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=F24E1E&style=for-the-badge&color=000000">
-  </a>
   <a href="https://obsidian.md/" target="_blank"> 
     <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&logoColor=483699&style=for-the-badge&color=000000">
   </a>
