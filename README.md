@@ -5,22 +5,20 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Junior+Developer+|+it+works+on+my+machine">
 </h3>
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2>About me</h2>
-      <p>
-        I'm the kind of person who likes to understand how things work under the hood.<br /><br />
-        I build small things, break them, fix them, and learn along the way.<br /><br />
-        When I'm not coding, I'm probably breaking my Linux setup.<br /><br />
-        Also, I really like coffee and loud music, preferably at the same time.
-      </p>
-    </td>
-    <td width="40%" align="center" valign="top">
-      <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
-    </td>
-  </tr>
-</table>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"  /></p>
+
+## **About Me**
+
+I'm the kind of person who likes to understand how things work under the hood.
+
+I build small things, break them, fix them, and learn along the way.
+
+When I'm not coding, I'm probably breaking my Linux setup.
+
+Also, I really like coffee ☕ and loud music, preferably at the same time.
+
+
 
 <h2 align="center">Skills</h2>
 
@@ -49,7 +47,7 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=F05032&style=for-the-badge&color=000000">
   </a>
-  <br /><br />
+
   <a href="https://github.com/" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=181717&style=for-the-badge&color=000000">
   </a>
@@ -73,6 +71,7 @@
   </a>
 </p>
 
+<br/> 
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -102,3 +101,7 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=E4405F&style=for-the-badge&color=000000">
   </a>
 </p>
+
+
+
+
