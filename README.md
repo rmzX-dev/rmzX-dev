@@ -19,63 +19,36 @@ When I'm not coding, I'm probably breaking my Linux setup.
 Also, I really like coffee ☕ and loud music, preferably at the same time.
 
 
-
 <h2 align="center">Skills</h2>
-
 <p align="center">
-  <a href="https://nodejs.org/" target="_blank"> 
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&logoColor=6DA55F&style=for-the-badge&color=000000">
-  </a>
-  <a href="https://expressjs.com/" target="_blank"> 
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=404d59&style=for-the-badge&color=000000">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=007ACC&style=for-the-badge&color=000000">
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge&color=000000">
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=38B2AC&style=for-the-badge&color=000000">
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=316192&style=for-the-badge&color=000000">
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=4ea94b&style=for-the-badge&color=000000">
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=F05032&style=for-the-badge&color=000000">
-  </a>
+  <img src="https://img.shields.io/badge/FRONTEND-000000?style=for-the-badge&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/ANGULAR-000000?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8&labelColor=000000&color=000000" />
 
-  <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=181717&style=for-the-badge&color=000000">
-  </a>
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=0db7ed&style=for-the-badge&color=000000">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=000000">
-  </a>
-  <a href="https://obsidian.md/" target="_blank"> 
-    <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&logoColor=483699&style=for-the-badge&color=000000">
-  </a>
-  <a href="https://archlinux.org/" target="_blank"> 
-    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-%231793D1.svg?logo=arch-linux&logoColor=1793D1&style=for-the-badge&color=000000">
-  </a>
+  <img src="https://img.shields.io/badge/BACKEND-000000?style=for-the-badge&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=000000&color=000000" />
+
+  <img src="https://img.shields.io/badge/DATABASE-000000?style=for-the-badge&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=000000&color=000000" />
+
+  <img src="https://img.shields.io/badge/DEVOPS_%26_TOOLS-000000?style=for-the-badge&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/ARCH_LINUX-000000?style=for-the-badge&logo=arch-linux&logoColor=1793D1&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/OBSIDIAN-000000?style=for-the-badge&logo=obsidian&logoColor=7c5cbf&labelColor=000000&color=000000" />
 </p>
 
-<br/> 
 
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmzX-dev&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmzX-dev&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmzX-dev&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rmzX-dev&theme=github-dark&hide_border=true" />
 </p>
 
 
