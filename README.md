@@ -11,11 +11,8 @@
 ## **About Me**
 
 I'm the kind of person who likes to understand how things work under the hood.
-
 I build small things, break them, fix them, and learn along the way.
-
 When I'm not coding, I'm probably breaking my Linux setup.
-
 Also, I really like coffee ☕ and loud music, preferably at the same time.
 
 
