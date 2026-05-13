@@ -38,7 +38,6 @@ Also, I really like coffee ☕ and loud music, preferably at the same time.
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000&color=000000" />
   <img src="https://img.shields.io/badge/ARCH_LINUX-000000?style=for-the-badge&logo=arch-linux&logoColor=1793D1&labelColor=000000&color=000000" />
   <img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&labelColor=000000&color=000000" />
-  <img src="https://img.shields.io/badge/OBSIDIAN-000000?style=for-the-badge&logo=obsidian&logoColor=7c5cbf&labelColor=000000&color=000000" />
 </p>
 
 
